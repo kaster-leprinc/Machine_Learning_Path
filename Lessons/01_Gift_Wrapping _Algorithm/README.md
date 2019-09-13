@@ -1,7 +1,7 @@
 # 01_Gift_Wrapping _Algorithm
 
 
-<img src= "assets/01_Gift_Wrapping _Algorithm.png" width="500" >
+<img src= "assets/01_Gift_Wrapping _Algorithm.gif" width="500" >
 
 
 ^_^
