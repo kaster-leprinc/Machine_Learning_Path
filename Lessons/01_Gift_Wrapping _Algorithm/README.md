@@ -1,7 +1,7 @@
 # 01_Gift_Wrapping _Algorithm
 
 
-<a href ="https://github.com/kelvin147789/Machine_Learning_Path/blob/master/Lessons/01_Gift_Wrapping%20_Algorithm/index.html"><img src= "assets/image.png" width="250" > </a>
+<img src= "assets/image.png" width="250" >
 
 
 ^_^
