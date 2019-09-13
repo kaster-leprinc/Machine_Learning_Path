@@ -1,6 +1,6 @@
 # Machine_Learning_Path
 
-<img src="01_Gift_Wrapping_Algorithm/assets/01_Gift_Wrapping _Algorithm.png" width="250" >
+<img src="01_Gift_Wrapping_Algorithm/assets/image.png" width="250" >
 
 
 ^_^
