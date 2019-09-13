@@ -4,7 +4,7 @@
 <img src= "assets/01_Gift_Wrapping _Algorithm.gif" width="500" >
 
 
-^_^
+
  
 
 
